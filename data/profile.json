@@ -48,15 +48,20 @@
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
-      "github": true
-    },
-    {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
-      "github": true
-    }
+        "name": "Pokedéx",
+        "url": "https://github.com/gvrodrigues2/pokedex.js",
+        "github": true
+      },
+      {
+        "name": "Site HBO Max",
+        "url": "https://github.com/gvrodrigues2/hbomax",
+        "github": true
+      },
+      {
+        "name": "Primeiro Site com HTML",
+        "url": "https://github.com/gvrodrigues2/_SITE_HTML",
+        "github": true
+      }
   ],
   "professionalExperience": [
     {
