@@ -46,6 +46,16 @@
     "Inglês (intermediário)",
     "Espanhol (básico)"
   ],
+  "education": [
+      {
+        "formation": "UNIFATECIE - Análise e Desenvolvimento de Sistemas",
+        "time": "(conclusão 12/24)"
+      },
+      {
+        "formation": "DIO - Lógica de Programação",
+        "time": "(concluído)"
+      }
+    ],
   "portfolio": [
     {
         "name": "Pokedéx",
