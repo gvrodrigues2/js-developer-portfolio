@@ -68,10 +68,20 @@
         "github": true
       },
       {
-        "name": "Primeiro Site com HTML",
-        "url": "https://github.com/gvrodrigues2/_SITE_HTML",
+        "name": "Página Discord",
+        "url": "https://gvrodrigues2.github.io/repositorio_discord/",
         "github": true
       },
+      {
+        "name": "Página do curso Trilha de CSS",
+        "url": "https://gvrodrigues2.github.io/repositorio_trilha_css/",
+        "github": true
+      },
+      {
+        "name": "Youtube",
+        "url": "https://gvrodrigues2.github.io/repositorio_youtube_01/",
+        "github": true
+      }
       {
         "name": "Youtube da DIO",
         "url": "https://gvrodrigues2.github.io/repositorio_dio/",
